@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/serviceEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/serviceGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/serviceOrder/pom.xml" />
+        <option value="$PROJECT_DIR$/serviceCustomer/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>
